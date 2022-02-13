@@ -10,7 +10,7 @@ Fixes #0000
 * [ ] ask `@publiclab/is-reviewers` for help, in a comment below 
 * [ ] at least 2 reviews required for getting pull request merged
 * [ ] Insert-step functionality is working correct as expected.
-> We're happy to help you get this ready -- don't be afraid to ask for help, and **don't be discouraged** if your tests fail at first!
+<!--->> We're happy to help you get this ready -- don't be afraid to ask for help, and **don't be discouraged** if your tests fail at first!--->
 
 <!---If tests do fail, click on the red `X` to learn why by reading the logs.--->
 
